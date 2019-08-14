@@ -1,0 +1,94 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Het </nonSort>
+    <title>echte Oud-Hollandse Ornaprentenboek PK-2006-P-186</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Zuilen, Ton van [ps. of Joop Moesman]</namePart>
+    <namePart type="date">1909-1988</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Otterloo, Henk van</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code">prt</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">art reproduction</genre>
+  <genre authority="rdacontent/dut">niet-bewegend beeld</genre>
+  <genre authority="">otherwise.</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">ne</placeTerm>
+      <placeTerm authority="marccountry" lang="eng" type="text">Netherlands</placeTerm>
+    </place>
+    <dateIssued encoding="marc" point="start">2000</dateIssued>
+    <dateIssued encoding="marc" point="end">1976</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="production">
+    <place>
+      <placeTerm type="text">Leiden :</placeTerm>
+    </place>
+    <publisher>Leiden University Libraries,</publisher>
+    <dateOther type="production">[between 2000 and 2013]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+    <languageTerm authority="iso639-2b" lang="eng" type="text">No linguistic content</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">nonprojected graphic</form>
+    <form authority="marcsmd">print</form>
+    <extent>scans</extent>
+    <form authority="rdamedia/dut" type="media">computer</form>
+    <form authority="rdacarrier/dut" type="carrier">online</form>
+  </physicalDescription>
+  <accessCondition type="restriction on access">Access within the library premises.</accessCondition>
+  <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This resource is protected by copyright</accessCondition>
+  <note>Impression: 59/100.</note>
+  <note type="original location">Leiden, UB ne</note>
+  <note type="ownership">Donation Annie and Guus Huisman-van Bergen (Leiden, 2006); acquired through prof. R. Kruk. NL-LeU</note>
+  <note type="version identification">Signed by Van Zuilen and Van Otterloo in the colophon. NL-LeU</note>
+  <location>
+    <physicalLocation>Leiden, UB</physicalLocation>
+  </location>
+  <relatedItem type="original"></relatedItem>
+  <relatedItem displayLabel="In collection:" type="otherVersion">
+    <titleInfo>
+      <title>Huisman-van Bergen, A. (1924-2003) en G. (1917-1983)</title>
+    </titleInfo>
+    <identifier>ubl087</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Reproduction of:" type="otherFormat">
+    <titleInfo>
+      <title>Het echte Oud-Hollandse Ornaprentenboek</title>
+    </titleInfo>
+    <name>
+      <namePart>Zuilen, Ton van [ps. of Joop Moesman]</namePart>
+    </name>
+    <originInfo>
+      <publisher>Houten : Green Escape Press, [1976-1982]</publisher>
+    </originInfo>
+    <physicalDescription>
+      <extent>1 print. ; 220 x 177 mm.</extent>
+    </physicalDescription>
+    <identifier>PK-2006-P-186</identifier>
+  </relatedItem>
+  <identifier type="oclc">905815651</identifier>
+  <recordInfo>
+    <descriptionStandard>fobidrtb</descriptionStandard>
+    <recordContentSource authority="marcorg">NLGGC</recordContentSource>
+    <recordCreationDate encoding="marc">140729</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20190403095335.0</recordChangeDate>
+    <recordIdentifier source="NL-LeU">oai:alma.31UKB_LEU:990034398020302711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>      
+<languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+      <languageTerm authority="iso639-2b" lang="eng" type="text">Dutch</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <identifier type="hdl">http://hdl.handle.net/1887.1/item:2012872</identifier>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Fire PK-1910-P-23</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Velde, Jan van de</namePart>
+    <namePart type="date">1593-1641</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code">art</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Buytewech, Willem Pietersz</namePart>
+    <namePart type="date">1585-1624</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code">inv</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">art reproduction</genre>
+  <genre authority="rdacontent/dut">niet-bewegend beeld</genre>
+  <genre authority="">allegorical scene.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm><placeTerm authority="marccountry" type="text" lang="eng">Netherlands</placeTerm>
+    </place>
+    <dateIssued encoding="marc" point="start">2000</dateIssued>
+    <dateIssued encoding="marc" point="end">1622</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="production">
+    <place>
+      <placeTerm type="text">Leiden :</placeTerm>
+    </place>
+    <publisher>Leiden University Libraries,</publisher>
+    <dateOther type="production">[between 2000 and 2013].</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">No linguistic content</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">nonprojected graphic</form>
+    <form authority="marcsmd">print</form>
+    <extent>scans</extent>
+    <form type="media" authority="rdamedia/dut">computer</form>
+    <form type="carrier" authority="rdacarrier/dut">online</form>
+  </physicalDescription>
+  <accessCondition type="restriction on access">Download provided.</accessCondition>
+  <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/">Use of this resource is governed by the terms and conditions of the Creative Commons CC-BY License</accessCondition>
+  <note>Old call number: PK-P-111.384</note>
+  <note type="original location">Leiden, UB ne</note>
+  <note type="version identification">Unsigned. NL-LeU</note>
+  <location>
+    <physicalLocation>Leiden, UB</physicalLocation>
+  </location>
+  <relatedItem type="isReferencedBy">
+    <titleInfo>
+      <title>F 139(138-141);W II 139(138-141)</title>
+    </titleInfo>
+    <part>
+      <detail type="part">
+        <number/>
+      </detail>
+    </part>
+  </relatedItem>
+  <relatedItem type="otherVersion" displayLabel="Part of:">
+    <titleInfo>
+      <title>The Four Elements ; 2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="otherFormat" displayLabel="Reproduction of:">
+    <titleInfo>
+      <title>Fire</title>
+    </titleInfo>
+    <name>
+      <namePart>Velde, Jan van de,</namePart>
+    </name>
+    <originInfo>
+      <publisher>1622</publisher>
+    </originInfo>
+    <physicalDescription>
+      <extent>1 print ; 20.2 x 29 cm (paper)</extent>
+    </physicalDescription>
+    <identifier>PK-1910-P-23</identifier>
+  </relatedItem>
+  <identifier type="oclc">906004327</identifier>
+  <recordInfo>
+    <descriptionStandard>fobidrtb</descriptionStandard>
+    <recordContentSource authority="marcorg">NLGGC</recordContentSource>
+    <recordCreationDate encoding="marc">140729</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20190403132529.0</recordChangeDate>
+    <recordIdentifier source="NL-LeU">oai:alma.31UKB_LEU:990035584870302711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">dut</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">Dutch</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <identifier type="hdl">http://hdl.handle.net/1887.1/item:2004321</identifier>
+</mods>

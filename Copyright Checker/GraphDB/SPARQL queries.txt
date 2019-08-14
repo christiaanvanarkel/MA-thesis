@@ -1,0 +1,26 @@
+#Select all Wikidata URLs and corresponding Handles of creators who died between 1 January 1949 and 31 December 1949.
+
+SELECT ?s ?o ?deathDate
+WHERE {
+	?s <http://www.wikidata.org/prop/P570> ?deathDate .
+    ?s <http://www.wikidata.org/prop/P170> ?o
+    FILTER (?deathDate < "1949-12-31T00:00:00.000Z" && ?deathDate > "1949-01-01T00:00:00.000Z")
+		}
+
+#Select all Wikidata URLs and corresponding Handles of creators who died before 31 December 1948.
+
+SELECT ?s ?o ?deathDate
+WHERE {
+	?s <http://www.wikidata.org/prop/P570> ?deathDate .
+    ?s <http://www.wikidata.org/prop/P170> ?o
+    FILTER (?deathDate < "1948-12-31T00:00:00.000Z")
+}
+
+#Select all Wikidata URLs and corresponding Handles of creators who died after 31 December 1949.
+
+SELECT ?s ?o ?deathDate
+WHERE {
+	?s <http://www.wikidata.org/prop/P570> ?deathDate .
+    ?s <http://www.wikidata.org/prop/P170> ?o
+    FILTER (?deathDate > "1949-12-31T00:00:00.000Z")
+}

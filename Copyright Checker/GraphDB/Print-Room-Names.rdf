@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2355223">
+	<P570 xmlns="http://www.wikidata.org/prop/">1935-05-06T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621630"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q15876182">
+	<P570 xmlns="http://www.wikidata.org/prop/">2012-11-20T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1619769"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q29422099">
+	<P570 xmlns="http://www.wikidata.org/prop/">2015-08-12T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620277"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2057428">
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623795"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q5443926">
+	<P570 xmlns="http://www.wikidata.org/prop/">1847-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1631409"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q29421960">
+	<P570 xmlns="http://www.wikidata.org/prop/">1720-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622673"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q18552608">
+	<P570 xmlns="http://www.wikidata.org/prop/">1868-10-18T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623551"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q20985611">
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623800"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q52156696">
+	<P570 xmlns="http://www.wikidata.org/prop/">1977-06-09T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1619586"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2221664">
+	<P570 xmlns="http://www.wikidata.org/prop/">1938-12-31T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1631395"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q4040804">
+	<P570 xmlns="http://www.wikidata.org/prop/">1988-02-03T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:2012872"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q18508676">
+	<P570 xmlns="http://www.wikidata.org/prop/">1908-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:360418"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q21645695">
+	<P570 xmlns="http://www.wikidata.org/prop/">1743-06-26T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620149"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q1375551">
+	<P570 xmlns="http://www.wikidata.org/prop/">1780-11-14T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1625795"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q53498450">
+	<P570 xmlns="http://www.wikidata.org/prop/">1870-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1619508"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q21645695">
+	<P570 xmlns="http://www.wikidata.org/prop/">1743-06-26T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621646"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2221664">
+	<P570 xmlns="http://www.wikidata.org/prop/">1938-12-31T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1631133"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q18508744">
+	<P570 xmlns="http://www.wikidata.org/prop/">1932-03-05T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:2004318"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q512648">
+	<P570 xmlns="http://www.wikidata.org/prop/">1816-01-30T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1625754"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q884048">
+	<P570 xmlns="http://www.wikidata.org/prop/">2012-03-19T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621484"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q15967304">
+	<P570 xmlns="http://www.wikidata.org/prop/">1755-02-28T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620749"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q473684">
+	<P570 xmlns="http://www.wikidata.org/prop/">1641-11-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:2004321"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2100921">
+	<P570 xmlns="http://www.wikidata.org/prop/">2006-11-12T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622759"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q385997">
+	<P570 xmlns="http://www.wikidata.org/prop/">1686-05-09T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1625591"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q29559857">
+	<P570 xmlns="http://www.wikidata.org/prop/">2012-11-24T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622766"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q473684">
+	<P570 xmlns="http://www.wikidata.org/prop/">1641-11-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621470"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2714280">
+	<P570 xmlns="http://www.wikidata.org/prop/">1849-01-09T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620222"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q41262181">
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623886"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q930501">
+	<P570 xmlns="http://www.wikidata.org/prop/">1839-12-15T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622769"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q1846544">
+	<P570 xmlns="http://www.wikidata.org/prop/">2012-02-27T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1630792"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q559929">
+	<P570 xmlns="http://www.wikidata.org/prop/">1733-05-08T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622209"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q321394">
+	<P570 xmlns="http://www.wikidata.org/prop/">2015-12-24T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620437"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q23062375">
+	<P570 xmlns="http://www.wikidata.org/prop/">1855-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621878"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q23071174">
+	<P570 xmlns="http://www.wikidata.org/prop/">2015-07-19T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620353"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q29552947">
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1993230"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q27508562">
+	<P570 xmlns="http://www.wikidata.org/prop/">1880-06-02T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1620434"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2355223">
+	<P570 xmlns="http://www.wikidata.org/prop/">1935-05-06T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623808"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q1347434">
+	<P570 xmlns="http://www.wikidata.org/prop/">1629-03-29T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1631405"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q385997">
+	<P570 xmlns="http://www.wikidata.org/prop/">1686-05-09T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1622447"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q2606375">
+	<P570 xmlns="http://www.wikidata.org/prop/">2018-09-10T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1624036"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q4773784">
+	<P570 xmlns="http://www.wikidata.org/prop/">1700-01-01T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1621166"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q323843">
+	<P570 xmlns="http://www.wikidata.org/prop/">1678-10-18T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1623163"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q1890202">
+	<P570 xmlns="http://www.wikidata.org/prop/">1975-04-07T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:1630877"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wikidata.org/entity/Q18511825">
+	<P570 xmlns="http://www.wikidata.org/prop/">1742-05-09T00:00Z</P570>
+	<P170 xmlns="http://www.wikidata.org/prop/" rdf:resource="http://hdl.handle.net/1887.1/item:360363"/>
+</rdf:Description>
+
+</rdf:RDF>

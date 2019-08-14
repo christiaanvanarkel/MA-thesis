@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Baby</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Wijers, Justin</namePart>
+    <namePart type="date">1981-</namePart>
+    <role>
+      <roleTerm type="text">printmaker</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">art original</genre>
+  <genre authority="rdacontent"/>
+  <genre authority="">genre.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx</placeTerm><placeTerm authority="marccountry" type="text" lang="eng">No place, unknown, or undetermined</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2015</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="production">
+    <place>
+      <placeTerm type="text">Leiden :</placeTerm>
+    </place>
+    <publisher>Leiden University Libraries,</publisher>
+    <dateOther type="production">2015.</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">No linguistic content</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">electronic resource</form>
+    <form authority="marcsmd">remote</form>
+    <form authority="marccategory">nonprojected graphic</form>
+    <form authority="marcsmd">drawing</form>
+    <extent>1 scan</extent>
+    <form type="media" authority="rdamedia"/>
+    <form type="carrier" authority="rdacarrier"/>
+  </physicalDescription>
+  <accessCondition type="restriction on access">Access within the library premises.</accessCondition>
+  <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">This resource is protected by copyright</accessCondition>
+  <note type="statement of responsibility" altRepGroup="00">Justin Wijers.</note>
+  <relatedItem type="original"/>
+  <relatedItem type="otherFormat" displayLabel="Digital reproduction of:">
+    <titleInfo>
+      <title>Baby</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>2004</publisher>
+    </originInfo>
+    <identifier>015-P-1</identifier>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">NL-LeU</recordContentSource>
+    <recordCreationDate encoding="marc">150716</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20170714113547.0</recordChangeDate>
+    <recordIdentifier source="NL-LeU">oai:alma.31UKB_LEU:990036555470302711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <identifier type="hdl">http://hdl.handle.net/1887.1/item:1993230</identifier>
+</mods>

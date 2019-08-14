@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Luitenant-generaal J.B. van Heutsz als civiel- en militair-gouverneur van Atjeh</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">picture</genre>
+  <genre authority="marcgt">government publication</genre>
+  <genre authority="rdacontent">still image</genre>
+  <genre authority="aat">Digital images.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">xx#</placeTerm><placeTerm authority="marccountry" type="text" lang="eng">No place, unknown, or undetermined</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2007</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="production">
+    <place>
+      <placeTerm type="text"/>
+    </place>
+    <publisher/>
+    <dateOther type="production">2007.</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">No linguistic content</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">electronic resource</form>
+    <form authority="marcsmd">remote</form>
+    <form authority="marccategory">nonprojected graphic</form>
+    <form authority="marcsmd">photoprint</form>
+    <extent>Digital image</extent>
+    <form type="media" authority="rdamedia">computer</form>
+    <form type="carrier" authority="rdamedia">online resource</form>
+  </physicalDescription>
+  <accessCondition type="restriction on access">Download provided.</accessCondition>
+  <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/">Use of this resource is governed by the terms and conditions of the Creative Commons CC-BY License</accessCondition>
+  <note>Depicted: Heutsz, J.B. van.</note>
+  <note>Detail van fotonummer 7235.</note>
+  <subject>
+    <geographic>Aceh</geographic>
+  </subject>
+  <subject>
+    <topic>Generals</topic>
+  </subject>
+  <subject>
+    <geographic>Indonesia</geographic>
+  </subject>
+  <subject>
+    <topic>KNIL</topic>
+  </subject>
+  <subject>
+    <topic>Military</topic>
+  </subject>
+  <relatedItem type="otherFormat" displayLabel="Digital reproduction of:">
+    <titleInfo>
+      <title>Luitenant-generaal J.B. van Heutsz als civiel- en militair-gouverneur van Atjeh</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>[Circa 1900]</publisher>
+    </originInfo>
+    <identifier>KITLV 16501</identifier>
+  </relatedItem>
+  <identifier>c8035383-887e-4797-9cd1-8ad1c2e8b2d3</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">NL-LeU</recordContentSource>
+    <recordCreationDate encoding="marc">171214</recordCreationDate>
+    <recordIdentifier source="NL-LeU">oai:alma.31UKB_LEU:9939168545202711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <identifier type="hdl">http://hdl.handle.net/1887.1/item:936787</identifier>
+</mods>

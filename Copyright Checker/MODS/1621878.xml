@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>beautiful Fortunata/La belle Fortunata PK-1963-P-58b</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Kneisel, August</namePart>
+    <namePart type="date">active 1830</namePart>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">art reproduction</genre>
+  <genre authority="rdacontent/dut">niet-bewegend beeld</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm><placeTerm authority="marccountry" type="text" lang="eng">Germany</placeTerm>
+    </place>
+    <dateIssued encoding="marc">20uu</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="production">
+    <place>
+      <placeTerm type="text">Leiden :</placeTerm>
+    </place>
+    <publisher>Universitaire Bibliotheken Leiden,</publisher>
+    <dateOther type="production">[tussen 2000 en 2013]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">No linguistic content</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">electronic resource</form>
+    <form authority="marcsmd">remote</form>
+    <form authority="marccategory">nonprojected graphic</form>
+    <form authority="marcsmd">print</form>
+    <extent>elektronische bron</extent>
+    <form type="media" authority="rdamedia/dut">computer</form>
+    <form type="carrier" authority="rdacarrier/dut">online bron</form>
+  </physicalDescription>
+  <accessCondition type="restriction on access">Download provided.</accessCondition>
+  <accessCondition xmlns:xlink="http://www.w3.org/1999/xlink" type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/">Use of this resource is governed by the terms and conditions of the Creative Commons CC-BY License</accessCondition>
+  <relatedItem type="otherFormat" displayLabel="Digital representation of:">
+    <titleInfo>
+      <title>The beautiful Fortunata/La belle Fortunata</title>
+    </titleInfo>
+    <originInfo>
+      <publisher>1518</publisher>
+    </originInfo>
+    <identifier>PK-1963-P-58b</identifier>
+  </relatedItem>
+  <identifier type="oclc">905977468</identifier>
+  <recordInfo>
+    <descriptionStandard>fobidrtb</descriptionStandard>
+    <recordContentSource authority="marcorg">NLGGC</recordContentSource>
+    <recordCreationDate encoding="marc">140729</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20180531171928.0</recordChangeDate>
+    <recordIdentifier source="NL-LeU">oai:alma.31UKB_LEU:990035569360302711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">dut</languageTerm><languageTerm authority="iso639-2b" type="text" lang="eng">Dutch</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <identifier type="hdl">http://hdl.handle.net/1887.1/item:1621878</identifier>
+</mods>

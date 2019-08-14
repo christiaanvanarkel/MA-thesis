@@ -1,0 +1,635 @@
+CREATE
+LAST	Lnl	"Suikerfabriek Tandjong-Modjo (ook wel Ngablak genoemd) te Tandjoengmodjo bij Koedoes"
+LAST	Dnl	"Suikerfabriek Tandjong-Modjo (ook wel Ngablak genoemd) te Tandjoengmodjo bij Koedoes"
+LAST	P31	Q125191
+LAST	P571	+1920-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935393"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935393"
+LAST	P217	"KITLV 55945"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935393"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935393"	S854	"http://hdl.handle.net/1887.1/item:935393"
+LAST	P921	Q7189622	S854	"http://hdl.handle.net/1887.1/item:935393"
+LAST	P921	Q2998430
+LAST	P921	Q188913
+LAST	P921	Q227870
+LAST	P921	Q252
+LAST	P921	Q3557
+LAST	P921	Q10620
+CREATE
+LAST	Lnl	"Kust in de Baai van Tjilaoeteureun op West-Java"
+LAST	Dnl	"Kust in de Baai van Tjilaoeteureun op West-Java"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934258"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934258"
+LAST	P217	"KITLV 82654"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934258"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934258"	S854	"http://hdl.handle.net/1887.1/item:934258"
+LAST	P921	Q7441814	S854	"http://hdl.handle.net/1887.1/item:934258"
+LAST	P921	Q10371
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Entree van de lagere school van de Zusters Ursulinen te Soerabaja"
+LAST	Dnl	"Entree van de lagere school van de Zusters Ursulinen te Soerabaja"
+LAST	P31	Q125191
+LAST	P571	+1921-01-01T00:00:00Z/8	S854	"http://hdl.handle.net/1887.1/item:935390"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935390"
+LAST	P217	"KITLV 2144484"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935390"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935390"	S854	"http://hdl.handle.net/1887.1/item:935390"
+LAST	P921	Q1841	S854	"http://hdl.handle.net/1887.1/item:935390"
+LAST	P921	Q8434
+LAST	P921	Q191808
+LAST	P921	Q3914
+LAST	P921	Q11462
+CREATE
+LAST	Lnl	"Familie Meyer op Java, afstammend van een Afrikaanse soldaat in het Indische leger, met aan tafel (links) Wies en naast haar vermoedelijk Juul"
+LAST	Dnl	"Familie Meyer op Java, afstammend van een Afrikaanse soldaat in het Indische leger, met aan tafel (links) Wies en naast haar vermoedelijk Juul"
+LAST	P31	Q125191
+LAST	P571	+1921-01-01T00:00:00Z/8	S854	"http://hdl.handle.net/1887.1/item:933087"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933087"
+LAST	P217	"KITLV 44195"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933087"
+LAST	P973	"http://hdl.handle.net/1887.1/item:933087"	S854	"http://hdl.handle.net/1887.1/item:933087"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:933087"
+LAST	P921	Q3947
+LAST	P921	Q2998430
+LAST	P921	Q467
+LAST	P921	Q252
+LAST	P921	Q3757
+CREATE
+LAST	Lnl	"rede van Oeleëlheuë bij Koetaradja"
+LAST	Dnl	"rede van Oeleëlheuë bij Koetaradja"
+LAST	P31	Q125191
+LAST	P571	+1895-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935597"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935597"
+LAST	P217	"KITLV 82855"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935597"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935597"	S854	"http://hdl.handle.net/1887.1/item:935597"
+LAST	P921	Q44782	S854	"http://hdl.handle.net/1887.1/item:935597"
+LAST	P921	Q3957
+LAST	P921	Q5662
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"Familie Meyer aan de rijsttafel tijdens een kerstvakantie te Lawang bij Malang"
+LAST	Dnl	"Familie Meyer aan de rijsttafel tijdens een kerstvakantie te Lawang bij Malang"
+LAST	P31	Q125191
+LAST	P571	+1930-01-01T00:00:00Z/8	S854	"http://hdl.handle.net/1887.1/item:932978"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:932978"
+LAST	P217	"KITLV 44370"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:932978"
+LAST	P973	"http://hdl.handle.net/1887.1/item:932978"	S854	"http://hdl.handle.net/1887.1/item:932978"
+LAST	P921	Q626066	S854	"http://hdl.handle.net/1887.1/item:932978"
+LAST	P921	Q3947
+LAST	P921	Q2998430
+LAST	P921	Q37486603
+LAST	P921	Q252
+LAST	P921	Q3586
+LAST	P921	Q11095
+CREATE
+LAST	Lnl	"Parelduiker die te water wordt gelaten, vermoedelijk bij de Aroe-eilanden"
+LAST	Dnl	"Parelduiker die te water wordt gelaten, vermoedelijk bij de Aroe-eilanden"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934312"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934312"
+LAST	P217	"KITLV 82700"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934312"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934312"	S854	"http://hdl.handle.net/1887.1/item:934312"
+LAST	P921	Q7735	S854	"http://hdl.handle.net/1887.1/item:934312"
+LAST	P921	Q43436
+LAST	P921	Q252
+LAST	P921	Q18849
+CREATE
+LAST	Lnl	"Publiek neemt afscheid van de Jan Pieterszoon Coen van de Stoomvaart Maatschappij Nederland, die uit Tandjoengpriok vertrekt"
+LAST	Dnl	"Publiek neemt afscheid van de Jan Pieterszoon Coen van de Stoomvaart Maatschappij Nederland, die uit Tandjoengpriok vertrekt"
+LAST	P31	Q125191
+LAST	P571	+1916-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935018"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935018"
+LAST	P217	"KITLV 45836"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935018"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935018"	S854	"http://hdl.handle.net/1887.1/item:935018"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:935018"
+LAST	P921	Q44782
+LAST	P921	Q11446
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Tanimbarezen aan boord van het flottieljevaartuig Hr.Ms. Java, vermoedelijk bij de Tanimbar-eilanden"
+LAST	Dnl	"Tanimbarezen aan boord van het flottieljevaartuig Hr.Ms. Java, vermoedelijk bij de Tanimbar-eilanden"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935626"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935626"
+LAST	P217	"KITLV 82668"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935626"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935626"	S854	"http://hdl.handle.net/1887.1/item:935626"
+LAST	P921	Q4508	S854	"http://hdl.handle.net/1887.1/item:935626"
+LAST	P921	Q3114762
+LAST	P921	Q252
+LAST	P921	Q18849
+CREATE
+LAST	Lnl	"Stijger te Wahai op Ceram"
+LAST	Dnl	"Stijger te Wahai op Ceram"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934301"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934301"
+LAST	P217	"KITLV 82696"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934301"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934301"	S854	"http://hdl.handle.net/1887.1/item:934301"
+LAST	P921	Q44782	S854	"http://hdl.handle.net/1887.1/item:934301"
+LAST	P921	Q252
+LAST	P921	Q4201768
+CREATE
+LAST	Lnl	"Roeiwedstrijd op Koninginnedag op Banda"
+LAST	Dnl	"Roeiwedstrijd op Koninginnedag op Banda"
+LAST	P31	Q125191
+LAST	P571	+1935-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936782"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936782"
+LAST	P217	"KITLV 16532"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936782"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936782"	S854	"http://hdl.handle.net/1887.1/item:936782"
+LAST	P921	Q171529	S854	"http://hdl.handle.net/1887.1/item:936782"
+LAST	P921	Q626066
+LAST	P921	Q349
+LAST	P921	Q252
+LAST	P921	Q4201768
+CREATE
+LAST	Lnl	"Prauw bij de kust van Boeroe"
+LAST	Dnl	"Prauw bij de kust van Boeroe"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935591"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935591"
+LAST	P217	"KITLV 82684"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935591"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935591"	S854	"http://hdl.handle.net/1887.1/item:935591"
+LAST	P921	Q93352	S854	"http://hdl.handle.net/1887.1/item:935591"
+LAST	P921	Q11446
+LAST	P921	Q252
+LAST	P921	Q4201768
+CREATE
+LAST	Lnl	"Hoogduits-Israëlitische (Nederlands-Israëlitische) synagoge Neve Salom in de Keizerstraat te Paramaribo"
+LAST	Dnl	"Hoogduits-Israëlitische (Nederlands-Israëlitische) synagoge Neve Salom in de Keizerstraat te Paramaribo"
+LAST	P31	Q125191
+LAST	P571	+1901-01-01T00:00:00Z/7	S854	"http://hdl.handle.net/1887.1/item:935051"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935051"
+LAST	P217	"KITLV 2144185"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935051"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935051"	S854	"http://hdl.handle.net/1887.1/item:935051"
+LAST	P921	Q34627	S854	"http://hdl.handle.net/1887.1/item:935051"
+LAST	P921	Q3001
+LAST	P921	Q730
+CREATE
+LAST	Lnl	"Straat in een dorp in Nederlands-Indië"
+LAST	Dnl	"Straat in een dorp in Nederlands-Indië"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936772"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936772"
+LAST	P217	"KITLV 151795"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936772"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936772"	S854	"http://hdl.handle.net/1887.1/item:936772"
+LAST	P921	Q34442	S854	"http://hdl.handle.net/1887.1/item:936772"
+LAST	P921	Q532
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"Badplaats bij Buitenzorg"
+LAST	Dnl	"Badplaats bij Buitenzorg"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:933024"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933024"
+LAST	P217	"KITLV 82448"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933024"
+LAST	P973	"http://hdl.handle.net/1887.1/item:933024"	S854	"http://hdl.handle.net/1887.1/item:933024"
+LAST	P921	Q3253281	S854	"http://hdl.handle.net/1887.1/item:933024"
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Rijswijk te Batavia, gezien naar het oosten"
+LAST	Dnl	"Rijswijk te Batavia, gezien naar het oosten"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P217	"KITLV 82554"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P170	Q27897924	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935468"	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P921	Q3957	S854	"http://hdl.handle.net/1887.1/item:935468"
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Roemah gadang op Sumatra's Westkust"
+LAST	Dnl	"Roemah gadang op Sumatra's Westkust"
+LAST	P31	Q125191
+LAST	P571	+1895-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934366"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934366"
+LAST	P217	"KITLV 82836"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934366"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934366"	S854	"http://hdl.handle.net/1887.1/item:934366"
+LAST	P921	Q3947	S854	"http://hdl.handle.net/1887.1/item:934366"
+LAST	P921	Q252
+LAST	P921	Q13324
+LAST	P921	Q2772
+CREATE
+LAST	Lnl	"Zaal van militaire sociëteit Concordia te Batavia"
+LAST	Dnl	"Zaal van militaire sociëteit Concordia te Batavia"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P217	"KITLV 82431"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P170	Q27897924	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934600"	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P921	Q17148672	S854	"http://hdl.handle.net/1887.1/item:934600"
+LAST	P921	Q2998430
+LAST	P921	Q8473
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Een medewerker, vermoedelijk van het Chinese Bestuur, in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	Dnl	"Een medewerker, vermoedelijk van het Chinese Bestuur, in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	P31	Q125191
+LAST	P571	+1894-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P217	"KITLV 46090"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P170	Q60005549	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934588"	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P921	Q17765219	S854	"http://hdl.handle.net/1887.1/item:934588"
+LAST	P921	Q10491425
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Paalwoningen aan een rivier, vermoedelijk op Zuid-Celebes"
+LAST	Dnl	"Paalwoningen aan een rivier, vermoedelijk op Zuid-Celebes"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936788"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936788"
+LAST	P217	"KITLV 151796"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936788"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936788"	S854	"http://hdl.handle.net/1887.1/item:936788"
+LAST	P921	Q3947	S854	"http://hdl.handle.net/1887.1/item:936788"
+LAST	P921	Q4022
+LAST	P921	Q252
+LAST	P921	Q5078
+CREATE
+LAST	Lnl	"Willemskerk aan het Koningplein-Oost te Batavia"
+LAST	Dnl	"Willemskerk aan het Koningplein-Oost te Batavia"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934996"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934996"
+LAST	P217	"KITLV 82422"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934996"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934996"	S854	"http://hdl.handle.net/1887.1/item:934996"
+LAST	P921	Q16970	S854	"http://hdl.handle.net/1887.1/item:934996"
+LAST	P921	Q23540
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"stoomlocomotief voor een treintje van de Samarang Joana Stoomtram-Maatschappij in Oedjong te Soerabaja"
+LAST	Dnl	"stoomlocomotief voor een treintje van de Samarang Joana Stoomtram-Maatschappij in Oedjong te Soerabaja"
+LAST	P31	Q125191
+LAST	P571	+1930-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935493"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935493"
+LAST	P217	"KITLV 44307"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935493"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935493"	S854	"http://hdl.handle.net/1887.1/item:935493"
+LAST	P921	Q93301	S854	"http://hdl.handle.net/1887.1/item:935493"
+LAST	P921	Q22667
+LAST	P921	Q34442
+LAST	P921	Q870
+LAST	P921	Q11462
+CREATE
+LAST	Lnl	"Portret van Dirk van Hogendorp (1761-1822), in generaalsuniform. zijn rechterhand rust op een kaart van Hamburg, waar hij in 1813-1814 gouverneur was. Links op de achtergrond een buste van Napoleon"
+LAST	Dnl	"Portret van Dirk van Hogendorp (1761-1822), in generaalsuniform. zijn rechterhand rust op een kaart van Hamburg, waar hij in 1813-1814 gouverneur was. Links op de achtergrond een buste van Napoleon"
+LAST	P31	Q125191
+LAST	P571	+1900-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P217	"KITLV 16502"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P170	Q37521212	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P973	"http://hdl.handle.net/1887.1/item:937736"	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P921	Q83460	S854	"http://hdl.handle.net/1887.1/item:937736"
+LAST	P921	Q8473
+CREATE
+LAST	Lnl	"Officier aan boord van het flottieljevaartuig Hr.Ms. Ceram, vermoedelijk bij de Molukken"
+LAST	Dnl	"Officier aan boord van het flottieljevaartuig Hr.Ms. Ceram, vermoedelijk bij de Molukken"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935479"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935479"
+LAST	P217	"KITLV 82723"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935479"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935479"	S854	"http://hdl.handle.net/1887.1/item:935479"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:935479"
+LAST	P921	Q4508
+LAST	P921	Q3114762
+LAST	P921	Q252
+LAST	P921	Q5093
+CREATE
+LAST	Lnl	"Straatverkopers in Nederlands-Indië"
+LAST	Dnl	"Straatverkopers in Nederlands-Indië"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936789"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936789"
+LAST	P217	"KITLV 151789"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936789"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936789"	S854	"http://hdl.handle.net/1887.1/item:936789"
+LAST	P921	Q8067100	S854	"http://hdl.handle.net/1887.1/item:936789"
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"oogsten van rijst te Buitenzorg"
+LAST	Dnl	"oogsten van rijst te Buitenzorg"
+LAST	P31	Q125191
+LAST	P571	+1916-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934363"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934363"
+LAST	P217	"KITLV 45829"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934363"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934363"	S854	"http://hdl.handle.net/1887.1/item:934363"
+LAST	P921	Q213753	S854	"http://hdl.handle.net/1887.1/item:934363"
+LAST	P921	Q5090
+LAST	P921	Q682079
+LAST	P921	Q467
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Tempelpoort op Bali"
+LAST	Dnl	"Tempelpoort op Bali"
+LAST	P31	Q125191
+LAST	P571	+1920-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936790"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936790"
+LAST	P217	"KITLV 9584"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936790"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936790"	S854	"http://hdl.handle.net/1887.1/item:936790"
+LAST	P921	Q9089	S854	"http://hdl.handle.net/1887.1/item:936790"
+LAST	P921	Q44539
+LAST	P921	Q53060
+LAST	P921	Q4648
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"medewerker van het Inheems Bestuur in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	Dnl	"medewerker van het Inheems Bestuur in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	P31	Q125191
+LAST	P571	+1894-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935461"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935461"
+LAST	P217	"KITLV 46099"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935461"
+LAST	P170	Q60005549	S854	"http://hdl.handle.net/1887.1/item:935461"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935461"	S854	"http://hdl.handle.net/1887.1/item:935461"
+LAST	P921	Q682079
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Suikerfabriek Paroengdjaja ten noordoosten van Madjalengka"
+LAST	Dnl	"Suikerfabriek Paroengdjaja ten noordoosten van Madjalengka"
+LAST	P31	Q125191
+LAST	P571	+1891-01-01T00:00:00Z/8	S854	"http://hdl.handle.net/1887.1/item:934019"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934019"
+LAST	P217	"KITLV 55913"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934019"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934019"	S854	"http://hdl.handle.net/1887.1/item:934019"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:934019"
+LAST	P921	Q7189622
+LAST	P921	Q49209
+LAST	P921	Q188913
+LAST	P921	Q227870
+LAST	P921	Q252
+LAST	P921	Q3724
+LAST	P921	Q10377
+CREATE
+LAST	Lnl	"Waterval Leuvin Panoetoep op de grens van Bandoeng en Tjiandjoer"
+LAST	Dnl	"Waterval Leuvin Panoetoep op de grens van Bandoeng en Tjiandjoer"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936785"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936785"
+LAST	P217	"KITLV 151792"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936785"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936785"	S854	"http://hdl.handle.net/1887.1/item:936785"
+LAST	P921	Q34038	S854	"http://hdl.handle.net/1887.1/item:936785"
+LAST	P921	Q10332
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Luitenant-generaal J.B. van Heutsz als civiel- en militair-gouverneur van Atjeh"
+LAST	Dnl	"Luitenant-generaal J.B. van Heutsz als civiel- en militair-gouverneur van Atjeh"
+LAST	P31	Q125191
+LAST	P571	+1900-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936787"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936787"
+LAST	P217	"KITLV 16501"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936787"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936787"	S854	"http://hdl.handle.net/1887.1/item:936787"
+LAST	P921	Q83460	S854	"http://hdl.handle.net/1887.1/item:936787"
+LAST	P921	Q523553
+LAST	P921	Q8473
+LAST	P921	Q1823
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"Voorzijde van het paleis van de gouverneur-generaal te Buitenzorg"
+LAST	Dnl	"Voorzijde van het paleis van de gouverneur-generaal te Buitenzorg"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P217	"KITLV 82451"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P170	Q27897924	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P973	"http://hdl.handle.net/1887.1/item:933562"	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P921	Q16560	S854	"http://hdl.handle.net/1887.1/item:933562"
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Zwaveldragers bij de Tangkoebanprahoe"
+LAST	Dnl	"Zwaveldragers bij de Tangkoebanprahoe"
+LAST	P31	Q125191
+LAST	P571	+1930-01-01T00:00:00Z/8	S854	"http://hdl.handle.net/1887.1/item:935462"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935462"
+LAST	P217	"KITLV 44229"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935462"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935462"	S854	"http://hdl.handle.net/1887.1/item:935462"
+LAST	P921	Q682	S854	"http://hdl.handle.net/1887.1/item:935462"
+LAST	P921	Q8072
+LAST	P921	Q252
+LAST	P921	Q3724
+LAST	P921	Q10380
+CREATE
+LAST	Lnl	"Rustplaats voor bezoekers van de waterval Dago te Bandoeng"
+LAST	Dnl	"Rustplaats voor bezoekers van de waterval Dago te Bandoeng"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936779"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936779"
+LAST	P217	"KITLV 151793"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936779"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936779"	S854	"http://hdl.handle.net/1887.1/item:936779"
+LAST	P921	Q34038	S854	"http://hdl.handle.net/1887.1/item:936779"
+LAST	P921	Q10332
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Bruggetjes over een rivier in Nederlands-Indië"
+LAST	Dnl	"Bruggetjes over een rivier in Nederlands-Indië"
+LAST	P31	Q125191
+LAST	P571	+1910-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936783"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936783"
+LAST	P217	"KITLV 151794"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936783"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936783"	S854	"http://hdl.handle.net/1887.1/item:936783"
+LAST	P921	Q12280	S854	"http://hdl.handle.net/1887.1/item:936783"
+LAST	P921	Q4022
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"Papoea, vermoedelijk te Atsj in het bisdom Agats"
+LAST	Dnl	"Papoea, vermoedelijk te Atsj in het bisdom Agats"
+LAST	P31	Q125191
+LAST	P571	+1901-01-01T00:00:00Z/7	S854	"http://hdl.handle.net/1887.1/item:936781"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936781"
+LAST	P217	"KITLV D992"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936781"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936781"	S854	"http://hdl.handle.net/1887.1/item:936781"
+LAST	P921	Q424129	S854	"http://hdl.handle.net/1887.1/item:936781"
+LAST	P921	Q27228
+LAST	P921	Q252
+LAST	P921	Q27693
+LAST	P921	Q5095
+CREATE
+LAST	Lnl	"Trein op een spoorbrug, vermoedelijk in de Anai-kloof op Sumatra's Westkust"
+LAST	Dnl	"Trein op een spoorbrug, vermoedelijk in de Anai-kloof op Sumatra's Westkust"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935465"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935465"
+LAST	P217	"KITLV 82533"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935465"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935465"	S854	"http://hdl.handle.net/1887.1/item:935465"
+LAST	P921	Q12280	S854	"http://hdl.handle.net/1887.1/item:935465"
+LAST	P921	Q107425
+LAST	P921	Q22667
+LAST	P921	Q870
+LAST	P921	Q6042
+CREATE
+LAST	Lnl	"Zwembad Manggarai te Batavia"
+LAST	Dnl	"Zwembad Manggarai te Batavia"
+LAST	P31	Q125191
+LAST	P571	+1925-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:936780"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936780"
+LAST	P217	"KITLV 16519"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:936780"
+LAST	P973	"http://hdl.handle.net/1887.1/item:936780"	S854	"http://hdl.handle.net/1887.1/item:936780"
+LAST	P921	Q1501	S854	"http://hdl.handle.net/1887.1/item:936780"
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Verrwoesting bij de desa Kertosarie"
+LAST	Dnl	"Verrwoesting bij de desa Kertosarie"
+LAST	P31	Q125191
+LAST	P571	+1920-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935416"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935416"
+LAST	P217	"KITLV 55938"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935416"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935416"	S854	"http://hdl.handle.net/1887.1/item:935416"
+LAST	P921	Q4022	S854	"http://hdl.handle.net/1887.1/item:935416"
+LAST	P921	Q34442
+LAST	P921	Q3957
+LAST	P921	Q7253
+CREATE
+LAST	Lnl	"pretendent-sultan van Atjeh, Mohamad Dawot (langste Atjeher), biedt met zijn zoon te Koetaradja zijn onderwerping aan het Nederlandse gouvernement aan, vertegenwoordigd door de gouverneur van Atjeh, luitenant-generaal J.B. van Heutsz (rechts van het portret van de koningin), vergezeld door onder meer zijn adjudant kapitein H. Colijn (pal voor het portret) en (bloothoofds op de rug gezien tegenover Colijn) majoor K. van der Maaten"
+LAST	Dnl	"pretendent-sultan van Atjeh, Mohamad Dawot (langste Atjeher), biedt met zijn zoon te Koetaradja zijn onderwerping aan het Nederlandse gouvernement aan, vertegenwoordigd door de gouverneur van Atjeh, luitenant-generaal J.B. van Heutsz (rechts van het portret van de koningin), vergezeld door onder meer zijn adjudant kapitein H. Colijn (pal voor het portret) en (bloothoofds op de rug gezien tegenover Colijn) majoor K. van der Maaten"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:933073"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933073"
+LAST	P217	"KITLV 82864"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933073"
+LAST	P973	"http://hdl.handle.net/1887.1/item:933073"	S854	"http://hdl.handle.net/1887.1/item:933073"
+LAST	P921	Q27683	S854	"http://hdl.handle.net/1887.1/item:933073"
+LAST	P921	Q2824584
+LAST	P921	Q523553
+LAST	P921	Q8473
+LAST	P921	Q12759805
+LAST	P921	Q5779
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"Algemene staf van het KNIL aan boord van de Prins Alexander tijdens de tweede Atjehexpeditie"
+LAST	Dnl	"Algemene staf van het KNIL aan boord van de Prins Alexander tijdens de tweede Atjehexpeditie"
+LAST	P31	Q125191
+LAST	P571	+1874-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:925029"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:925029"
+LAST	P217	"KITLV 91071"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:925029"
+LAST	P973	"http://hdl.handle.net/1887.1/item:925029"	S854	"http://hdl.handle.net/1887.1/item:925029"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:925029"
+LAST	P921	Q523553
+LAST	P921	Q8473
+LAST	P921	Q11446
+LAST	P921	Q1823
+LAST	P921	Q252
+CREATE
+LAST	Lnl	"J.H.C. Kuylaars op de Koningin der Nederlanden van de Stoomvaart Maatschappij Nederland twee dagen na vertrek"
+LAST	Dnl	"J.H.C. Kuylaars op de Koningin der Nederlanden van de Stoomvaart Maatschappij Nederland twee dagen na vertrek"
+LAST	P31	Q125191
+LAST	P571	+1916-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934657"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934657"
+LAST	P217	"KITLV 45809"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934657"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934657"	S854	"http://hdl.handle.net/1887.1/item:934657"
+LAST	P921	Q10491425	S854	"http://hdl.handle.net/1887.1/item:934657"
+LAST	P921	Q11446
+LAST	P921	Q467
+LAST	P921	Q97
+CREATE
+LAST	Lnl	"Huizen aan de kust te Tidore (Soasioe) op Tidore"
+LAST	Dnl	"Huizen aan de kust te Tidore (Soasioe) op Tidore"
+LAST	P31	Q125191
+LAST	P571	+1903-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935559"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935559"
+LAST	P217	"KITLV 82682"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935559"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935559"	S854	"http://hdl.handle.net/1887.1/item:935559"
+LAST	P921	Q93352	S854	"http://hdl.handle.net/1887.1/item:935559"
+LAST	P921	Q3947
+LAST	P921	Q532
+LAST	P921	Q252
+LAST	P921	Q5094
+CREATE
+LAST	Lnl	"N.V. Administratiekantoor Klaasen & Co. in Rijswijk te Batavia verlicht ter gelegenheid van het huwelijk van prinses Juliana en prins Bernhard"
+LAST	Dnl	"N.V. Administratiekantoor Klaasen & Co. in Rijswijk te Batavia verlicht ter gelegenheid van het huwelijk van prinses Juliana en prins Bernhard"
+LAST	P31	Q125191
+LAST	P571	+1937-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934121"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934121"
+LAST	P217	"KITLV 94878"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934121"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934121"	S854	"http://hdl.handle.net/1887.1/item:934121"
+LAST	P921	Q626066	S854	"http://hdl.handle.net/1887.1/item:934121"
+LAST	P921	Q182060
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Officierwoningen aan het Waterlooplein te Batavia"
+LAST	Dnl	"Officierwoningen aan het Waterlooplein te Batavia"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:935405"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935405"
+LAST	P217	"KITLV 82424"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:935405"
+LAST	P973	"http://hdl.handle.net/1887.1/item:935405"	S854	"http://hdl.handle.net/1887.1/item:935405"
+LAST	P921	Q3947	S854	"http://hdl.handle.net/1887.1/item:935405"
+LAST	P921	Q523553
+LAST	P921	Q3957
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Standbeeld van Jan Pietserszoon Coen op het Waterlooplein te Batavia verlicht ter gelegenheid van het huwelijk van prinses Juliana en prins Bernhard"
+LAST	Dnl	"Standbeeld van Jan Pietserszoon Coen op het Waterlooplein te Batavia verlicht ter gelegenheid van het huwelijk van prinses Juliana en prins Bernhard"
+LAST	P31	Q125191
+LAST	P571	+1937-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934334"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934334"
+LAST	P217	"KITLV 94886"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934334"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934334"	S854	"http://hdl.handle.net/1887.1/item:934334"
+LAST	P921	Q626066	S854	"http://hdl.handle.net/1887.1/item:934334"
+LAST	P921	Q4989906
+LAST	P921	Q252
+LAST	P921	Q1015978
+CREATE
+LAST	Lnl	"Torentempel van Tjandi Singosari bij Malang"
+LAST	Dnl	"Torentempel van Tjandi Singosari bij Malang"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P217	"KITLV 82767"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P170	Q12485005	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934308"	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P921	Q9089	S854	"http://hdl.handle.net/1887.1/item:934308"
+LAST	P921	Q44539
+LAST	P921	Q11095
+CREATE
+LAST	Lnl	"Schepen en pakhuizen aan de kade van de Kali Mas te Soerabaja"
+LAST	Dnl	"Schepen en pakhuizen aan de kade van de Kali Mas te Soerabaja"
+LAST	P31	Q125191
+LAST	P571	+1900-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:933063"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933063"
+LAST	P217	"KITLV 82612"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:933063"
+LAST	P973	"http://hdl.handle.net/1887.1/item:933063"	S854	"http://hdl.handle.net/1887.1/item:933063"
+LAST	P921	Q4022	S854	"http://hdl.handle.net/1887.1/item:933063"
+LAST	P921	Q11446
+LAST	P921	Q3957
+LAST	P921	Q181623
+LAST	P921	Q11462
+CREATE
+LAST	Lnl	"Huis in een djatibos, vermoedelijk op een houtkaponderneming op West-Java"
+LAST	Dnl	"Huis in een djatibos, vermoedelijk op een houtkaponderneming op West-Java"
+LAST	P31	Q125191
+LAST	P571	+1880-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P217	"KITLV 82827"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P170	Q12485005	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934254"	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P921	Q3947	S854	"http://hdl.handle.net/1887.1/item:934254"
+LAST	P921	Q845249
+LAST	P921	Q8032311
+LAST	P921	Q252
+LAST	P921	Q3724
+CREATE
+LAST	Lnl	"Een medewerker van het Chinese Bestuur in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	Dnl	"Een medewerker van het Chinese Bestuur in de afdeling Buitenzorg ten tijde dat Johan Anthonie Hardeman daar als assistent-resident werkzaam was"
+LAST	P31	Q125191
+LAST	P571	+1894-01-01T00:00:00Z/9	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P217	"KITLV 46106"	P195	Q638395	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P170	Q60005549	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P973	"http://hdl.handle.net/1887.1/item:934282"	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P921	Q7850	S854	"http://hdl.handle.net/1887.1/item:934282"
+LAST	P921	Q17765219
+LAST	P921	Q10363
+LAST	P921	Q252
+LAST	P921	Q3724
